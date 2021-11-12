@@ -12,6 +12,6 @@ A Prosopographical Dataset of Selected Ur III Texts (ca. 2100-2000 BCE) Mainly f
 | 169983 | Nam-ha-ni |                   | Citizen & +    |                                  | 6 iku                     | 1264 | 5             |
 * Note that this table is highly abbreviated from the full dataset, which includes more isolated data pertaining to each text and personal name. With access to the full dataset, scholars can filter the data according to one or more criteria, such as social strata, occupation, and allotments. For example, if scholars investigates the occupations of UN-il2, they can filter all PIN's according to known UN-il2 and then search all attested occupations for such PIN's in the dataset.
 * This dataset uses sigla with the following meanings:
-* * & = An inference based on explicit data, - = an internal inference, + = an external inference
-    * = A confident restoration
-  (?) = An uncertainty
+*    & = An inference based on explicit data, - = an internal inference, + = an external inference
+*    * = A confident restoration
+*    (?) = An uncertainty
